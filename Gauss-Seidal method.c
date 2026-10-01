@@ -8,6 +8,7 @@ int main() {
 
     printf("Enter number of equations: ");
     scanf("%d", &n);
+    //nothing
 
     printf("Enter coefficients of equations:\n");
 
